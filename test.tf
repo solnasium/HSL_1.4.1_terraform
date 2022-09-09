@@ -11,9 +11,9 @@ required_providers {
 
 # Configure the FlexibleEngine Provider
 provider "flexibleengine" {
-    access_key  = "MK1TEPB2UXOYJZ8SMQVR"
-    secret_key  = "SHZsQt8zmStJklTeR0rHOffP8lC81JSOnQzLFabT"
-    domain_name = "OCB0002678"
+    access_key  = ""
+    secret_key  = ""
+    domain_name = ""
     region      = "eu-west-0"
 }
 
